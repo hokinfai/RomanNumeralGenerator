@@ -1,10 +1,10 @@
 This project is to convert integer to Roman numeral symbols.
 
 Project Classes:
-Interface -> /src/main/java/com/bbc/romannumeralgenerator/core/RomanNumeralGenerator;
-Implementation class -> /src/main/java/com/bbc/romannumeralgenerator/core/IntegerToRomanGenerator;
-Main method -> /src/main/java/com/bbc/romannumeralgenerator/main/IntegerToRomanApplication;
-Unit Test -> /src/test/java/com/bbc/romannumeralgenerator/core/IntegerToRomanGeneratorTest;
+- Interface -> /src/main/java/com/bbc/romannumeralgenerator/core/RomanNumeralGenerator;
+- Implementation class -> /src/main/java/com/bbc/romannumeralgenerator/core/IntegerToRomanGenerator;
+- Main method -> /src/main/java/com/bbc/romannumeralgenerator/main/IntegerToRomanApplication;
+- Unit Test -> /src/test/java/com/bbc/romannumeralgenerator/core/IntegerToRomanGeneratorTest;
 
 Approach to solution:
 - To solve this problem, we need to understand some basic concepts.
